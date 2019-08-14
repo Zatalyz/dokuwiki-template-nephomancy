@@ -1,0 +1,7 @@
+base     nephomancy
+author   Zatalyz
+email    zatalyz@liev.re
+date     2017-03-03
+name     Other Basic DokuWiki Template
+desc     Basic template based on DokuWiki default, for reading (blog, etc).
+url      https://github.com/Zatalyz/dokuwiki-template-nephomancy
